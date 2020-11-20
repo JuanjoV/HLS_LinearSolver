@@ -20,3 +20,4 @@ CholeskyLinearSolver_prj/
 *.~lock.*
 *.autosave
 *.m~
+*debug*
